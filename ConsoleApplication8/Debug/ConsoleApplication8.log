@@ -1,0 +1,15 @@
+﻿Build started 2020-12-22 오후 4:07:09.
+     1>Project "D:\Ajou\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\ajou\consoleapplication8\consoleapplication8\source.cpp : fatal error C1001: An internal error has occurred in the compiler.
+         (compiler file 'f:\dd\vctools\compiler\cxxfe\sl\p1\c\p0io.c', line 2807)
+          To work around this problem, try simplifying or changing the program near the locations listed above.
+         Please choose the Technical Support command on the Visual C++ 
+          Help menu, or open the Technical Support help file for more information
+     1>Done Building Project "D:\Ajou\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.19
